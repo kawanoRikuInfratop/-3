@@ -1,0 +1,12 @@
+
+An error occurred while loading ./[:index,:create,:show,:edit,:update,:destroy].
+[31mFailure/Error: return load_without_bootsnap(resolved, wrap)[0m
+[31m[0m
+[31mLoadError:[0m
+[31m  cannot load such file -- /home/ec2-user/environment/bookers2/[:index,:create,:show,:edit,:update,:destroy][0m
+[36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/bootsnap-1.9.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:60:in `load'[0m
+[36m# /home/ec2-user/.rvm/gems/ruby-2.6.3/gems/bootsnap-1.9.1/lib/bootsnap/load_path_cache/core_ext/kernel_require.rb:60:in `load'[0m
+
+Finished in 0.00004 seconds (files took 1.31 seconds to load)
+[31m0 examples, 0 failures, 1 error occurred outside of examples[0m
+
